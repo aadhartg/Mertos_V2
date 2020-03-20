@@ -1,0 +1,17 @@
+F:\New folder\WinApp\bin\Release\WinApp.exe.config
+F:\New folder\WinApp\bin\Release\WinApp.exe
+F:\New folder\WinApp\bin\Release\WinApp.pdb
+F:\New folder\WinApp\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+F:\New folder\WinApp\bin\Release\Microsoft.WindowsAzure.Storage.dll
+F:\New folder\WinApp\bin\Release\Newtonsoft.Json.dll
+F:\New folder\WinApp\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+F:\New folder\WinApp\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+F:\New folder\WinApp\bin\Release\Microsoft.WindowsAzure.Storage.xml
+F:\New folder\WinApp\bin\Release\Newtonsoft.Json.xml
+F:\New folder\WinApp\obj\Release\WinApp.Form1.resources
+F:\New folder\WinApp\obj\Release\WinApp.Properties.Resources.resources
+F:\New folder\WinApp\obj\Release\WinApp.csproj.GenerateResource.cache
+F:\New folder\WinApp\obj\Release\WinApp.csproj.CopyComplete
+F:\New folder\WinApp\obj\Release\WinApp.exe
+F:\New folder\WinApp\obj\Release\WinApp.pdb
+F:\New folder\WinApp\obj\Release\WinApp.csprojAssemblyReference.cache
